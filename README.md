@@ -32,6 +32,8 @@
 
 This is amazing. Started as a small project just for myself, it now has > 15,000 lines of code, > 500 versions published, > 4 mio downloads per month, > 90 mio downloads overall. #1 NPM ranking for backend packages. Thank you to all who contributed to this project!
 
+这里修改了对中文盘符的支持。
+
 ## New Version 5.0
 
 The new Version 5 is here - I spend several weeks finalizing this new version. Any support is highly appreciated - [Buy me a coffee](https://www.buymeacoffee.com/systeminfo)
